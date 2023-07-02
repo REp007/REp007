@@ -142,7 +142,7 @@ I am excited to connect with fellow developers and collaborate on innovative pro
 
 
 
- [![GitHub Streak](https://streak-stats.demolab.com/?user=REp007)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=REp007&theme=tokyonight&hide_border=true&border_radius=4.9)](https://git.io/streak-stats)
 
   <br/>
 
