@@ -1,8 +1,8 @@
-### Welcome 👋
-<br>
+# HOLA 👋
 
-**I am Amrani Youssef**
-
-<br>
-
-![Alt Text](https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif)
+### Hello! I'm `Youssef El-Amrani`, a passionate software developer and technology enthusiast.
+### With a deep curiosity for all things related to coding and innovation
+Repository | link | Stars
+ ------------ | ------------- | ------------- 
+Profile | <i>empty</i> | ---
+Automated Document Scanning   | <i>empty</i> | ---- 
