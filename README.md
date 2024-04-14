@@ -3,7 +3,7 @@
 
 [![Deepu's GitHub stats](https://github-readme-stats.vercel.app/api?username=REp007&show_icons=true&theme=dark&hide_title=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=REp007&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Metrics](https://gist.githubusercontent.com/REp007/17b755e901001b643d75299be4db1aa5/raw/github-metrics.svg)
+![Metrics](https://gist.githubusercontent.com/REp007)
 
 
 ## 📚 Looking for my Resume? E-Mail me!
