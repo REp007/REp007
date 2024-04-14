@@ -16,7 +16,7 @@ jobs:
         with:
           token: ${{ secrets.PrvToken }}
 
-          user: WarFox
+          user: REp007
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/London
